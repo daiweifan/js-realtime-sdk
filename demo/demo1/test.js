@@ -1,7 +1,7 @@
 // 详细请了解官方文档  https://leancloud.cn/docs/js_realtime.html
 
 // 请将 AppId 改为你自己的 AppId
-var appId = '9p6hyhh60av3ukkni3i9z53q1l8yy3cijj6sie3cewft18vm';
+var appId = 'opai6x1pfouysu492ci6czxx0f2tiu0foye0fdphcffux2kw';
 
 // 每个客户端自定义的 id
 var clientId = 'LeanCloud111';
